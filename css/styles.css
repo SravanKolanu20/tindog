@@ -153,7 +153,7 @@ p {
   margin: 20px 10px;
 }
 
-::ng-deep .card-body {
+.cardBody {
   height: 313px;
   position: relative;
 }
