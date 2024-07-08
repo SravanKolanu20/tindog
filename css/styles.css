@@ -152,3 +152,14 @@ p {
 .social {
   margin: 20px 10px;
 }
+
+::ng-deep .card-body {
+  height: 313px;
+  position: relative;
+}
+
+.subscriptionBtns {
+  position: absolute;
+  bottom: 34px;
+  right: 98px;
+}
